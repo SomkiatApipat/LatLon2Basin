@@ -13,6 +13,6 @@ RoxygenNote: 7.3.1
 Additional_repositories: CRAN
 Depends:
     R (>= 4.3.2), raster,
-    sp, leaflet,
+    sp, leaflet, sf,
     htmltools
     
