@@ -7,6 +7,8 @@
 #' @return Main River basin name
 #' @export
 #'
+#' @examples data(LatLon)
+#' @examples LatLon
 #' @examples LatLon2BasinTbl(LatLon)
 #'
 #' @import raster
